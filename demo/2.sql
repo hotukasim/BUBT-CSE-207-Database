@@ -1,0 +1,1 @@
+SELECT sis_std_father,sis_std_birth FROM tbl_student WHERE sis_std_birth<'1990-06-01'
